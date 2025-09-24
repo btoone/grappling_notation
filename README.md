@@ -6,9 +6,9 @@ This project provides a living standard you can extend over time to record match
 ## Quick Example
 
 ```text
-[Gordon ↳ Giancarlo] :: Americana @ Mount
-[Gordon ↳ Giancarlo] :: Triangle @ Guard !!
-[Gordon ↳ Giancarlo] :: Kimura >> Armbar @ Half Guard
+[Gordon ↳ Andre] :: Kimura >> Americana @ Side Control
+[Gordon] :: Half Guard @ Guard
+[Giancarlo ↳ Ronaldo] :: Armbar @ Juji Gatame ~ Belly Down !!
 ```
 
 - `↳`: Submission attempt
