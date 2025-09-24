@@ -1,5 +1,10 @@
 # Changelog
 
+## v0.0.3 - 2025-09-23
+
+- Fix typos in spec
+- Update README example
+
 ## v0.0.2 - 2025-09-23
 
 - Created starter files
