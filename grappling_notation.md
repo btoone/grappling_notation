@@ -1,9 +1,6 @@
 # Grappling Notation
 
-
 A lightweight symbolic notation for recording grappling events.
-
----
 
 ## Grappling Notation Specification
 
@@ -21,7 +18,7 @@ A lightweight symbolic notation for recording grappling events.
 ### Symbols
 
 | Symbol | Meaning |
-| —----- | -—----- |
+| ------ | ------- |
 |  `↳`   | Submission applied               |
 |  `::`  | Actor/Action separator           |
 |  `@`   | Position indicator               |
