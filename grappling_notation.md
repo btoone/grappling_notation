@@ -34,7 +34,7 @@ A lightweight symbolic notation for recording grappling events.
 #### 1. Transitions
 
 ```text
-[Gordon ↳ Giancarlo] :: Americana @ Mount ~ SideControl
+[Gordon ↳ Giancarlo] :: Americana @ Mount ~ Side Control
 ```
 
 #### 2. Outcomes
@@ -47,13 +47,13 @@ A lightweight symbolic notation for recording grappling events.
 #### 3. Chains
 
 ```text
-[Gordon ↳ Giancarlo] :: Kimura >> Armbar @ HalfGuard
+[Gordon ↳ Giancarlo] :: Kimura >> Armbar @ Half Guard
 ```
 
 #### 4. Positional-only
 
 ```text
-[Gordon] :: GuardPull @ ClosedGuard
+[Gordon] :: Guard Pull @ Guard
 ```
 
 #### 5. Comments
@@ -70,8 +70,8 @@ A lightweight symbolic notation for recording grappling events.
 ### Examples
 
 ```text
-[Gordon ↳ Giancarlo] :: Kimura >> Armbar @ HalfGuard
-[Gordon ↳ Giancarlo] :: Kimura @ SideControl
+[Gordon ↳ Giancarlo] :: Kimura >> Armbar @ Half Guard
+[Gordon ↳ Giancarlo] :: Kimura @ Side Control
 ```
 
 ## Abbreviations
@@ -86,7 +86,7 @@ A lightweight symbolic notation for recording grappling events.
 ## Example Match Log
 
 ```text
-[Gordon] :: GuardPull @ G
+[Gordon] :: Guard Pull @ G
 [Gordon ↳ Giancarlo] :: Armbar @ G ??
 [Gordon ↳ Giancarlo] :: Triangle @ G !!
 ```
